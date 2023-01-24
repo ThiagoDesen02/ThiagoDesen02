@@ -1,4 +1,4 @@
-### Olá, eu sou o Thiago, estudando desenvolvimento web 
+### Olá, eu sou o Thiago! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ##
 
