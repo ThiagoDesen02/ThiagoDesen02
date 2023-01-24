@@ -1,4 +1,4 @@
-### Olá, eu sou o Thiago, estudo desenvolvimento web 
+### Olá, eu sou o Thiago, estudando desenvolvimento web 
 
 ##
 
